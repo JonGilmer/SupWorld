@@ -1,0 +1,15 @@
+/Users/JonathanGilmer/Desktop/Repos/SupWorld/SupWorld/bin/Debug/net6.0/SupWorld
+/Users/JonathanGilmer/Desktop/Repos/SupWorld/SupWorld/bin/Debug/net6.0/SupWorld.deps.json
+/Users/JonathanGilmer/Desktop/Repos/SupWorld/SupWorld/bin/Debug/net6.0/SupWorld.runtimeconfig.json
+/Users/JonathanGilmer/Desktop/Repos/SupWorld/SupWorld/bin/Debug/net6.0/SupWorld.dll
+/Users/JonathanGilmer/Desktop/Repos/SupWorld/SupWorld/bin/Debug/net6.0/ref/SupWorld.dll
+/Users/JonathanGilmer/Desktop/Repos/SupWorld/SupWorld/bin/Debug/net6.0/SupWorld.pdb
+/Users/JonathanGilmer/Desktop/Repos/SupWorld/SupWorld/obj/Debug/net6.0/SupWorld.csproj.AssemblyReference.cache
+/Users/JonathanGilmer/Desktop/Repos/SupWorld/SupWorld/obj/Debug/net6.0/SupWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/JonathanGilmer/Desktop/Repos/SupWorld/SupWorld/obj/Debug/net6.0/SupWorld.AssemblyInfoInputs.cache
+/Users/JonathanGilmer/Desktop/Repos/SupWorld/SupWorld/obj/Debug/net6.0/SupWorld.AssemblyInfo.cs
+/Users/JonathanGilmer/Desktop/Repos/SupWorld/SupWorld/obj/Debug/net6.0/SupWorld.csproj.CoreCompileInputs.cache
+/Users/JonathanGilmer/Desktop/Repos/SupWorld/SupWorld/obj/Debug/net6.0/SupWorld.dll
+/Users/JonathanGilmer/Desktop/Repos/SupWorld/SupWorld/obj/Debug/net6.0/ref/SupWorld.dll
+/Users/JonathanGilmer/Desktop/Repos/SupWorld/SupWorld/obj/Debug/net6.0/SupWorld.pdb
+/Users/JonathanGilmer/Desktop/Repos/SupWorld/SupWorld/obj/Debug/net6.0/SupWorld.genruntimeconfig.cache
